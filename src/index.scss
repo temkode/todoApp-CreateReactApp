@@ -1,0 +1,13 @@
+@import 'styles/_colours.scss';
+@import-normalize;
+
+html,
+body {
+    background-color: $background-color;
+    font-weight: 300;
+    font-size: 18px;
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+}
